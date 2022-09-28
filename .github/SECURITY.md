@@ -11,3 +11,6 @@ If you discover a security vulnerability within this project, please contact thi
 ## Contact Information
 
 The lead developer of this project is Manuel van Leeuwen. You can contact him via [email](mailto:17489@hetstreek.nl) or by joining the [Discord server](https://discord.gg/Nk22nMnk66) and sending him a direct message.
+\
+\
+_We are not in any way affliated with CSG Het Streek._
